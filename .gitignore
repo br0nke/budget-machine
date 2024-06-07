@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/budget_file.pickle
 
 # Spyder project settings
 .spyderproject
